@@ -1,2 +1,2 @@
-# sheenamayart_homepage
-Mockup of website for Sheena's art page
+# firstwebsite
+A website about pizza built using fundamentals or HTML and CSS
